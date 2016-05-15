@@ -1,0 +1,10 @@
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\eTreatMD_Model.dll
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\eTreatMD_Model.pdb
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\obj\Debug\eTreatMD_Model.dll
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\obj\Debug\eTreatMD_Model.pdb
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\eTreatMD_Model.dll.config
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\EntityFramework.dll
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\EntityFramework.xml
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rshen3p\Desktop\eTreatMD\eTreatMD\eTreatMD_Model\obj\Debug\eTreatMD_Model.csprojResolveAssemblyReference.cache
